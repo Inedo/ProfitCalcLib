@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Inedo</Authors>
+    <Company>Inedo</Company>
+    <Description>An example NuGet package for the NuGet CI/CD BuildMaster template.</Description>
+    <PackageProjectUrl>https://github.com/Inedo/ProfitCalcLib</PackageProjectUrl>
+    <Copyright>Copyright 2019</Copyright>
+  </PropertyGroup>
+
+</Project>
