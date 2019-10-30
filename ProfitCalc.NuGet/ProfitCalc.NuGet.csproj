@@ -8,6 +8,7 @@
     <Description>An example NuGet package for the NuGet CI/CD BuildMaster template.</Description>
     <PackageProjectUrl>https://github.com/Inedo/ProfitCalcLib</PackageProjectUrl>
     <Copyright>Copyright 2019</Copyright>
+	<NoWarn>NU5105</NoWarn>
   </PropertyGroup>
 
 </Project>

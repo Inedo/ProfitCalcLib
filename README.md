@@ -1,4 +1,4 @@
-# ProfitCalc
+# ProfitCalcLib
 
 A small, simple NuGet package containing a .NET library used for DevOps training and workshops.
 
